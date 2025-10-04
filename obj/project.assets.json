@@ -7530,9 +7530,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\GitHub\\LD58-Collector\\BaseGameProject.csproj",
-      "projectName": "BaseGameProject",
-      "projectPath": "C:\\GitHub\\LD58-Collector\\BaseGameProject.csproj",
+      "projectUniqueName": "C:\\GitHub\\LD58-Collector\\LD58-Collector.csproj",
+      "projectName": "LD58-Collector",
+      "projectPath": "C:\\GitHub\\LD58-Collector\\LD58-Collector.csproj",
       "packagesPath": "C:\\Users\\Talif\\.nuget\\packages\\",
       "outputPath": "C:\\GitHub\\LD58-Collector\\obj\\",
       "projectStyle": "PackageReference",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "SLg4Cr4ZiPDN9x5jkq2sv3oSOICUdzlsqJpwJZmQsp6mK9KFzg4DZFA1Na3uV3u4cYhfY3jo6dbQ7PDAlirLIg==",
+  "dgSpecHash": "Jv3iYBAHi0qUEkHCH4gZw7Ycau83ogspnMNL8nacDqnoH4wkvHK16c2iE9vTewJUeXYyOM4CfIcqMp3mqBZLzw==",
   "success": true,
-  "projectFilePath": "C:\\GitHub\\LD58-Collector\\BaseGameProject.csproj",
+  "projectFilePath": "C:\\GitHub\\LD58-Collector\\LD58-Collector.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Talif\\.nuget\\packages\\libuv\\1.9.1\\libuv.1.9.1.nupkg.sha512",
     "C:\\Users\\Talif\\.nuget\\packages\\microsoft.codeanalysis.analyzers\\1.1.0\\microsoft.codeanalysis.analyzers.1.1.0.nupkg.sha512",
